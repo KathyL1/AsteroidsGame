@@ -30,4 +30,4 @@ class Spaceship extends Floater
   }
 }
   
-}
+
